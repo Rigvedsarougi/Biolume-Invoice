@@ -1,0 +1,5 @@
+generated_invoices/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
